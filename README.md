@@ -7,13 +7,14 @@ Python 3.13.3
 
 1. Clone the repository
    git clone https://github.com/Subinsha7/miniresume-subin-ts.git
+
    cd miniresume-subin-ts
 
-2. Create virtual environment
+3. Create virtual environment
    python -m venv venv
    venv\Scripts\activate
 
-3. Install dependencies
+4. Install dependencies
    pip install -r requirements.txt
 
 ## Run the Application
